@@ -1,0 +1,15 @@
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/bin/Debug/net7.0/AdvancePro
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/bin/Debug/net7.0/AdvancePro.deps.json
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/bin/Debug/net7.0/AdvancePro.runtimeconfig.json
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/bin/Debug/net7.0/AdvancePro.dll
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/bin/Debug/net7.0/AdvancePro.pdb
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/obj/Debug/net7.0/AdvancePro.csproj.AssemblyReference.cache
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/obj/Debug/net7.0/AdvancePro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/obj/Debug/net7.0/AdvancePro.AssemblyInfoInputs.cache
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/obj/Debug/net7.0/AdvancePro.AssemblyInfo.cs
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/obj/Debug/net7.0/AdvancePro.csproj.CoreCompileInputs.cache
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/obj/Debug/net7.0/AdvancePro.dll
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/obj/Debug/net7.0/refint/AdvancePro.dll
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/obj/Debug/net7.0/AdvancePro.pdb
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/obj/Debug/net7.0/AdvancePro.genruntimeconfig.cache
+/Users/thanh/RiderProjects/AdvancePro/AdvancePro/obj/Debug/net7.0/ref/AdvancePro.dll
